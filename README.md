@@ -1,1 +1,2 @@
 soal test
+tes logika
